@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_DataPractice_Task2", "ITMO_DataPractice_Task2.csproj", "{137D2C48-6EDB-4E8C-AE9D-B54E4DEAD717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLModel1_Generated", "..\MLModel1_Generated\MLModel1_Generated.csproj", "{27AD6268-25BE-904D-A460-7BA24CFE811F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137D2C48-6EDB-4E8C-AE9D-B54E4DEAD717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137D2C48-6EDB-4E8C-AE9D-B54E4DEAD717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137D2C48-6EDB-4E8C-AE9D-B54E4DEAD717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137D2C48-6EDB-4E8C-AE9D-B54E4DEAD717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AD6268-25BE-904D-A460-7BA24CFE811F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD6268-25BE-904D-A460-7BA24CFE811F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD6268-25BE-904D-A460-7BA24CFE811F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD6268-25BE-904D-A460-7BA24CFE811F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CC3F71-2D21-4651-8756-CB4D8DB624CB}
+	EndGlobalSection
+EndGlobal
