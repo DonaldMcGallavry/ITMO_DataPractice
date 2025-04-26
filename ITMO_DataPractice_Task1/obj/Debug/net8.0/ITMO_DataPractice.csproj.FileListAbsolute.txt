@@ -1,0 +1,105 @@
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\ITMO_DataPractice.exe
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\ITMO_DataPractice.deps.json
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\ITMO_DataPractice.runtimeconfig.json
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\ITMO_DataPractice.pdb
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.FastTree.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Microsoft.ML.LightGbm.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\bin\Debug\net8.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.csproj.AssemblyReference.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.AssemblyInfoInputs.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.AssemblyInfo.cs
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.csproj.CoreCompileInputs.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_Dat.8C55D67A.Up2Date
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\refint\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.pdb
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ITMO_DataPractice.genruntimeconfig.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\obj\Debug\net8.0\ref\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\ITMO_DataPractice.exe
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\ITMO_DataPractice.deps.json
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\ITMO_DataPractice.runtimeconfig.json
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\ITMO_DataPractice.pdb
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.FastTree.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Microsoft.ML.LightGbm.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\linux-x64\native\libFastTreeNative.so.dbg
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\osx-x64\native\libFastTreeNative.dylib.dwarf
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\bin\Debug\net8.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.csproj.AssemblyReference.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.AssemblyInfoInputs.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.AssemblyInfo.cs
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.csproj.CoreCompileInputs.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.sourcelink.json
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_Dat.8C55D67A.Up2Date
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\refint\ITMO_DataPractice.dll
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.pdb
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ITMO_DataPractice.genruntimeconfig.cache
+C:\Users\Swiborg\Desktop\учеба\тех обработки\practice\ITMO_DataPractice\Новая папка\obj\Debug\net8.0\ref\ITMO_DataPractice.dll
